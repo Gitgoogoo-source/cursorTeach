@@ -1,0 +1,13 @@
+{
+  "name": "testTonAndSDK",
+  "uuid": "ef7e16da-a56a-40bf-a997-ac76d4eea817",
+  "creator": {
+    "version": "3.8.8"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.90.1"
+  },
+  "devDependencies": {
+    "@types/node": "^25.0.5"
+  }
+}
