@@ -1,6 +1,7 @@
 {
-  "name": "testTonAndSDK",
-  "uuid": "ef7e16da-a56a-40bf-a997-ac76d4eea817",
+  "name": "PracticeNode",
+  "type": "module",
+  "uuid": "19bae7d9-3afe-483b-bdd7-155c367d9ac5",
   "creator": {
     "version": "3.8.8"
   },
@@ -8,6 +9,6 @@
     "@supabase/supabase-js": "^2.90.1"
   },
   "devDependencies": {
-    "@types/node": "^25.0.5"
+    "@types/node": "^25.0.6"
   }
 }
